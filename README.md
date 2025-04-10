@@ -1,6 +1,5 @@
 # confidence-interval-viz
 Deployed-https://vqpmrhmqzpu6y5twsbinnm.streamlit.app/
-st.markdown("""
 ## 🧪 Confidence Interval Simulation
 
 This interactive simulation helps visualize how different types of confidence intervals behave over multiple random samples from a normal distribution.
@@ -22,5 +21,3 @@ This tool demonstrates how often confidence intervals actually capture the popul
 - **Distribution used (Z vs. T)**
 
 Use the sliders in the sidebar to tweak parameters and understand how uncertainty and variability influence confidence intervals.
-
-""")
